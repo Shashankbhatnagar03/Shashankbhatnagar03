@@ -43,7 +43,7 @@ currently_learning: ["NextJs"  , "Redis"]
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" /> GITHUB STATS</h1>
  </div>
- <div align="center>
+ <div align="center">
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankbhatnagar03&theme=tokyonight" alt="Shashankbhatnagar03" /></p>
 <hr>
  </div>
