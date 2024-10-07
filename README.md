@@ -52,6 +52,10 @@ currently_learning: ["NextJs  , Redis "]
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
  </div>
 
+ <div align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shashank_bhatnagar03&animated=true&theme=dark" alt="LeetCode Badges"/>
+</div>
+
 <div align="center">
 <img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </div>
